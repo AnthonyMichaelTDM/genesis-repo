@@ -3,6 +3,8 @@
 
 cd $(pwd)
 
+git pull
+
 cd ./x86_64
 
 ./update_repo.sh
